@@ -1,0 +1,31 @@
+SMAP
+take_005fappointment_jsp.java
+JSP
+*S JSP
+*F
++ 0 take_appointment.jsp
+take_appointment.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5:52
+1#1,78:53
+79,4:132
+82,5:136
+87,6:142
+92,9:148
+101:157,3
+102,10:160
+112:170,3
+113,4:173
+117:177,3
+118,10:180
+128:190,3
+129,109:193
+6#0,19:302
+25,3:322
+27,10:325
+1#2,90:334
+*E
